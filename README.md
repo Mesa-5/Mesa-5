@@ -9,7 +9,7 @@ Tres estudiantes, un solo equipo y muchas ideas por desarrollar.</p>
 
 <h2> Tecnologías y herramientas </h2>
 <p aling="left">
- <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
 </p>
 
 <h2> Nuestros objetivos</h2>
