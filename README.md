@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 aling="center"> Hola, somos TrioDev </h1>
 
-<!--
-**Mesa-5/Mesa-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 aling="center"> Equipo de desarrollo de software </h3>
 
-Here are some ideas to get you started:
+<p aling="center">
+Tres estudiantes, un solo equipo y muchas ideas por desarrollar.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2> Tecnologías y herramientas </h2>
+<p aling="left">
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,git,github,vscode" />
+</p>
+
+<h2> Nuestros objetivos</h2>
+
+- Aprender nuevas tecnologías.
+- Crear proyectos de software.
+  Trabajar en equipo.
+- Mejorar nuestras habilidades de programación.
+
+<h2> Nuestro equipo </h2>
+
+<strong> TrioDev — Tres mentes, un solo equipo. </strong>
+
+---
+
+<p align="center">
+   Gracias por visitar nuestro perfil 
+</p>
