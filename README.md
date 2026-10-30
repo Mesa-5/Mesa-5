@@ -9,7 +9,7 @@ Tres estudiantes, un solo equipo y muchas ideas por desarrollar.</p>
 
 <h2> Tecnologías y herramientas </h2>
 <p aling="left">
- <img src="https://skillicons.dev/icons?i=mariadb,git,github,bash.cron" />
+ <img src="https://skillicons.dev/icons?i=mariadb,git,github,bash,cron,mariadb-dump" />
 </p>
 
 <h2> Nuestros objetivos</h2>
